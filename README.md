@@ -140,4 +140,4 @@
 <br />
 <br />
 
-###### README 작성자 [김두창](https://github.com/Kim-Duchang)
+###### README 작성자 [백교민](https://github.com/gyomin/KKIRI)
